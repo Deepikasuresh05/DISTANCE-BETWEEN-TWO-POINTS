@@ -8,7 +8,7 @@ Get the two values from the user
 ### Step 2: 
 Assign the value of second variable to a temporary variable
 ### Step 3: 
-Assign the value of the first variable to the second variable.
+Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 Assign the value in temporary variable to the first variable
 ### Step 5: 
